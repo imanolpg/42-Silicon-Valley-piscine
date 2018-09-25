@@ -1,0 +1,1 @@
+git add * && git commit -m "Automatic upload with script" && git push origin master
